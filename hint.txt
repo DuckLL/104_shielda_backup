@@ -1,0 +1,57 @@
+2015/12/04 15:09:05
+
+[GAME 09 Hint]: Path Traversal
+2015/12/04 14:56:16
+
+[GAME 07 Hint]: MD5
+2015/12/04 14:54:51
+
+[GAME 08 Hint]: 本題並非1對1編碼法，加密公式為(y=((x+55) mod 74)+32)>126?y mod 74:y
+2015/12/04 14:45:50
+
+[GAME 05 Hint]: libesedb + ntdsxtract
+2015/12/04 14:27:05
+
+[GAME 09 Hint]: disassemble ../bin/StarWar.dll
+2015/12/04 14:18:08
+
+[GAME 11 Hint]: http://goo.gl/Ejqi20 & aircrack-ng
+2015/12/04 14:16:15
+
+[GAME 10 Hint]: I disable ASLR on server side
+2015/12/04 13:53:40
+
+[GAME 07 Hint]: 數字+#=舊手機鍵盤
+2015/12/04 13:47:18
+
+[GAME 03 Hint]: 注意暫存資料夾內會新增後不見的檔案
+2015/12/04 13:44:19
+
+[GAME 11 Hint]: imagehide.exe
+2015/12/04 13:35:37
+
+[GAME 12 Hint]: 試試看裝死吧，固定某變數可以把事情簡化
+2015/12/04 13:32:08
+
+[GAME 10 Hint]: http://192.168.168.247/Makefile
+2015/12/04 13:13:01
+
+[GAME 09 Hint]: StarWar.dll
+2015/12/04 13:10:03
+
+[GAME 12 Hint]: 瀏覽器工具只能協助觀察，除非是人肉時鐘，不然你可能需要一個自己的client
+2015/12/04 13:01:54
+
+[GAME 05 Hint]: NTDS.dit + system hive
+2015/12/04 13:00:10
+
+[GAME 07 Hint]: .lvm
+2015/12/04 12:55:33
+
+[GAME 05 Hint]: 注意壓縮檔註解
+2015/12/04 12:54:51
+
+[GAME 09 Hint]: /bin
+2015/12/04 12:50:06
+
+[GAME 12 Hint]: 在頁面上輸入 'roswell'
