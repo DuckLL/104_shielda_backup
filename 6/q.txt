@@ -1,0 +1,8 @@
+◎ GAME： 6
+◎ 題目：
+Do you know Steganography? Find something in AUDIO!!
+
+◎ 提示：
+How about a picture or sentence?
+
+◎ 附件： WelcomeToTheJungle.wav

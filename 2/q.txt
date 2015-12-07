@@ -1,0 +1,8 @@
+◎ GAME： 2
+◎ 題目：
+Please read the README
+
+◎ 提示：
+此題為有關加解密方向的題目，需找出解密方式與解密key。
+
+◎ 附件： README pic.jpg flag

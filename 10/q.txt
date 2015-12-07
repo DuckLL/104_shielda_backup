@@ -1,0 +1,8 @@
+◎ GAME： 10
+◎ 題目：
+192.168.168.247:5555
+
+◎ 提示：
+This ELF-64 binary, so use ROP and get shell at Linux x64 OS.
+
+◎ 附件： ropme
